@@ -8,10 +8,10 @@ export default function Home() {
         <title>Create Next App</title>
       </Head>
       <main>
-        <h1>This is the root page</h1>
-        <Link href="/dashboard">Go to dashboard</Link>
+        <h1>This is the settings page</h1>
+        <Link href="/">Go to root</Link>
         <hr></hr>
-        <Link href="/dashboard/setting">Go to dashboard/settings</Link>
+        <Link href="/dashboard">Go to dashboard</Link>
       </main>
     </>
   );
