@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Create Next App</title>
+        <title>Jason's website!</title>
       </Head>
       <main>
         <h1>This is the root page</h1>
